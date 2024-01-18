@@ -1,0 +1,11 @@
+--2024-01-18 09:19:15--  https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_group.png
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.56.8, 54.231.161.184, 16.182.71.16, ...
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.56.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1051 (1.0K) [image/png]
+Saving to: ‘icon_group.png.1’
+
+     0K .                                                     100% 79.3M=0s
+
+2024-01-18 09:19:15 (79.3 MB/s) - ‘icon_group.png.1’ saved [1051/1051]
+
